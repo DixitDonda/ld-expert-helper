@@ -1,0 +1,5 @@
+{
+  "name": "LD Expert Automation",
+  "description": "Automated code generation tool for updating JSON data, PHP functions, and index files based on specific task types and instructions.",
+  "requestFramePermissions": []
+}
